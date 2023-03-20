@@ -13,7 +13,7 @@
                 ```
                 print("Hey World!! From Muhammad Talha Zafar")
                 ```
-                ![alt text](step1.jpg)
+                ![alt text](../step1.jpg)
 
 ## Step2: Create physical file filename.py
 * Create your directory (folder)	
